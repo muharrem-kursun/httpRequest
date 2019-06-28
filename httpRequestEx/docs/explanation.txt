@@ -1,0 +1,13 @@
+
+
+
+                                               YAPTIĞI İŞ
+
+         Bir servisin url ' sini kullanarak  diğer bir servisle bu verisini çekme işlemi yapıyor.
+
+
+                                               PROGRAMI ÇALIŞTIRMAK
+
+          programı tomcat 'le çalıştırırsın sonra tarayıcıdan (mesela chrome ' dan ) BookController  sınıfı çalıştırılır.
+          Daha sonra postmandan App sınıfı çalıştırılır.
+          Burada Bookcontroller' ın önce çalışması durmuna dikkat ediniz.
