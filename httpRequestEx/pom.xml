@@ -12,7 +12,7 @@
         <javax.version>2.1</javax.version>
         <jackson.version>2.3.0</jackson.version>
         <jsonSimple.version>1.1</jsonSimple.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <json.version>20180813</json.version>
     </properties>
 
